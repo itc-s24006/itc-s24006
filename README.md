@@ -1,6 +1,6 @@
-[return to Topic](#Topic)
-# Profile
-## 上原叶愛 - Uehara Noa -
+[](#Topic)
+### Profile
+## 上原叶愛 - Uehara Noa -  
 ##### 2005/09/26
 ---
 Topic
@@ -10,7 +10,7 @@ Topic
 - [制作物](###制作物)
 - [今後取り組みたいこと](###今後取り組みたいこと)  
 ---
-[return to Top](#Topic)
+[](#Topic)
 ### 資格
 - ITパスポート  
 - 情報セキュリティマネジメント  
@@ -18,13 +18,14 @@ Topic
 - SEA/J  
 - Comptia ITF+  
 
-### 学んでいること・言語
-- OS: Linux  
-- バージョン管理: Git, GitHub  
-- フレームワーク: Next.js  
-- ライブラリ: React  
-- データベース: MariaDB  
-- 言語:  
+[](#Topic)
+### 学んでいること・言語  
+OS: Linux  
+バージョン管理: Git, GitHub  
+フレームワーク: Next.js  
+ライブラリ: React  
+データベース: MariaDB  
+言語:  
     - HTML  
     - CSS  
     - JavaScript  
@@ -32,8 +33,10 @@ Topic
     - Java  
     - Kotlin  
   
+[](#Topic)
 ### 制作物  
   
+[](#Topic)
 ### 今後取り組みたいこと
 
 
