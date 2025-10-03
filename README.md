@@ -35,7 +35,7 @@ OS: Linux
   
 [](#Topic)
 ### 制作物  
-- [英単語学習Webアプリ「イメージで覚える英単語」](https://use-api-hazel.vercel.app/)
+- [英単語学習Webアプリ「イメージで覚える英単語」](https://use-api-hazel.vercel.app/)  
 入力した単語にあったイラストと英語訳・日本語訳が表示されることで、  
 視覚的に単語を覚えることができます。
   
