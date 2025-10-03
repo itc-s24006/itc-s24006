@@ -1,4 +1,5 @@
-## Hi there 👋
+## 上原叶愛 - Uehara Noa -
+# 2005/09/26 
 
 <!--
 **itc-s24006/itc-s24006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
