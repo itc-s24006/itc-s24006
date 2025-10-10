@@ -50,7 +50,7 @@ OS: Linux
 入力した単語にあったイラストと英語訳・日本語訳が表示されることで、  
 視覚的に単語を覚えることができます。 
   
-[return to Topic](#Topic)  
+  [return to Topic](#Topic)  
   
   
 
@@ -58,7 +58,7 @@ OS: Linux
 - インタネットの基礎知識を理解する  
 - データベースをもっと詳しく学ぶ  
   
-[return to Topic](#Topic)
+  [return to Topic](#Topic)
 
 
 
