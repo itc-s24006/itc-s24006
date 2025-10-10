@@ -4,6 +4,7 @@
 2005年生まれ  
 IT系の専門学校に在籍中。
 業務系システムやバックエンド開発に興味があります。  
+  
 
 ---
 ### *Topic*
@@ -15,6 +16,7 @@ IT系の専門学校に在籍中。
 ---  
   
   
+
 <!--取得年月も記入する-->
 ### *資格*
 - ITパスポート  
@@ -23,15 +25,14 @@ IT系の専門学校に在籍中。
 - SEA/J  
 - Comptia ITF+  
   
-  [return to Topic](#Topic)
-
+[return to Topic](#Topic)
+  
   
 
 ### *学んでいること*  
 OS: Linux  
 バージョン管理: Git, GitHub  
-フレームワーク: Next.js  
-ライブラリ: React  
+フレームワーク: Next.js
 データベース: MariaDB  
 言語:  
 - HTML  
@@ -39,18 +40,17 @@ OS: Linux
 - JavaScript  
 - Python  
 - Java  
-- Kotlin  
   
-  [return to Topic](#Topic)  
+[return to Topic](#Topic)  
   
   
-<!--制作物　だけtopicから飛ばない(return to Topicは飛ぶ)-->
+
 ### *制作物*  
 - ## [英単語学習Webアプリ「イメージで覚える英単語」](https://use-api-hazel.vercel.app/)  
 入力した単語にあったイラストと英語訳・日本語訳が表示されることで、  
 視覚的に単語を覚えることができます。 
   
-  [return to Topic](#Topic)  
+[return to Topic](#Topic)  
   
   
 
@@ -58,7 +58,7 @@ OS: Linux
 - インタネットの基礎知識を理解する  
 - データベースをもっと詳しく学ぶ  
   
-  [return to Topic](#Topic)
+[return to Topic](#Topic)
 
 
 
