@@ -50,9 +50,10 @@ OS: Linux
 ### *制作物*  
 <details>
 <summary>英単語学習Webアプリ「イメージで覚える英単語」</summary>
-
+  
+  
 [動作確認はこちら](https://use-api-hazel.vercel.app/)  
-[ソースコードはこちら](https://github.com/itc-s24006/useApi/tree/main/app)
+[ソースコードはこちら](https://github.com/itc-s24006/useApi/tree/main)
   
 入力した単語にあったイラストと英語訳・日本語訳が表示されることで、  
 視覚的に単語を覚えることができます。
@@ -66,13 +67,14 @@ API: DeepL API
 
 <details>
 <summary>学園祭出展　スタンプラリーアプリ</summary>
-
+  
+  
 ※supabaseの無料枠を利用しているため、現在は動作していません。  
   
 動作確認用動画  
 [・ログイン画面](https://drive.google.com/file/d/1mQ1Hncx7P6ZY7_HSeZoH3IlozXIRlbAf/view?usp=sharing)　　[・コンプリート画面](https://drive.google.com/file/d/15N_cj3vXtR1uovAs60gxCabYmskbK5Tw/view?usp=sharing)  
   
-[ソースコードはこちら](https://github.com/itc-s24006/useApi/tree/main/app)  
+[ソースコードはこちら](https://github.com/itc-s24006/StampRally/tree/main)  
   
   
 学園祭に出展したスタンプラリーアプリです。  
