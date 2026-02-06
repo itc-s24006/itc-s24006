@@ -100,7 +100,10 @@ ORM: Prisma
 苦手意識を持つ学生が多いSPI対策を、ゲーム感覚で楽しく学習できるWebアプリです。  
 ガチャ機能やバッジコレクションなど、モチベーションを維持できる仕組みを取り入れています。  
 
-  <img width="500" height="450" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/c8a1c94f-32c1-480b-b8b5-44b7602c185b" />  <img width="500" height="450" alt="Screenshot from 2026-02-06 11-30-23" src="https://github.com/user-attachments/assets/9943115f-3411-4e9d-9ac7-bdfa2ef1f28a" />
+  マイページ  
+  <img width="700" height="450" alt="Screenshot from 2026-02-06 11-30-12" src="https://github.com/user-attachments/assets/c8a1c94f-32c1-480b-b8b5-44b7602c185b" />  
+  ガチャページ  
+  <img width="700" height="450" alt="Screenshot from 2026-02-06 11-30-23" src="https://github.com/user-attachments/assets/9943115f-3411-4e9d-9ac7-bdfa2ef1f28a" />
   
 #### 現在取り組んでいること
 - システム全体の統合  
