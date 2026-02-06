@@ -90,8 +90,24 @@ QRコードを読み取ってGoogleログインを行い、各階に設置され
 データベース: Supabase  
 ORM: Prisma  
 デプロイ: Vercel  
-</details>  
+</details>
+
+<details>
+<summary>進級制作「Questa」</summary>
   
+##### 現在制作中のためリンク非公開です。
+
+苦手意識を持つ学生が多いSPI対策を、ゲーム感覚で楽しく学習できるWebアプリです。  
+ガチャ機能やバッジコレクションなど、モチベーションを維持できる仕組みを取り入れています。
+
+#### 仕様技術
+言語: TypeScript  
+フレームワーク: Node.js, Express, Next.js  
+データベース: Supabase  
+ORM: Prisma  
+認証: Supabase Auth  
+デプロイ: Render, Vercel  
+</details>
   
   
 
